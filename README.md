@@ -56,3 +56,10 @@ This repository is designed to facilitate customizing the Linux kernel, building
 ---
 
 *For further assistance or questions, refer to the individual README files within each folder.*
+---
+
+# Project: Application Protocol Classifier (eBPF)
+
+This project identifies and counts HTTP, DNS, and SSH traffic using eBPF/XDP and IPv6 packet parsing.
+
+🔗 [Click here to view the full project documentation](./ebpf/xdp-progs/xdp_proto_classifier/README.md)
