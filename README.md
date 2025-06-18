@@ -62,4 +62,4 @@ This repository is designed to facilitate customizing the Linux kernel, building
 
 This project identifies and counts HTTP, DNS, and SSH traffic using eBPF/XDP and IPv6 packet parsing.
 
-🔗 [Click here to view the full project documentation](./ebpf/xdp-progs/xdp_proto_classifier/README.md)
+🔗 [Click here to view the full project documentation](https://github.com/MhrshadSh/SDN-project?tab=readme-ov-file#sdn-final-project)
